@@ -96,7 +96,7 @@ $resultado1 = $sql1->fetchAll(PDO::FETCH_ASSOC);
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Asignación</a>
                     <div class="dropdown-menu bg-light m-0">
-                        <a href="ficha_form.php" class="dropdown-item ">Ficha a formación</a>
+                        <a href="ficha_form.php" class="dropdown-item ">Ficha y formación</a>
                         <a href="instru_forma.php" class="dropdown-item ">Instructor a Formación</a>
                         <a href="instru_trans.php" class="dropdown-item ">Instructor a Transversal</a>
                         <a href="trans_forma.php" class="dropdown-item ">Transversal a Formación</a>
